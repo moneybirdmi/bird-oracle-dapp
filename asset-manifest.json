@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/birf/bird-oracle-dapp/static/css/main.2d6c8471.chunk.css",
-    "main.js": "/birf/bird-oracle-dapp/static/js/main.3ccee682.chunk.js",
-    "main.js.map": "/birf/bird-oracle-dapp/static/js/main.3ccee682.chunk.js.map",
-    "runtime-main.js": "/birf/bird-oracle-dapp/static/js/runtime-main.3989d395.js",
-    "runtime-main.js.map": "/birf/bird-oracle-dapp/static/js/runtime-main.3989d395.js.map",
-    "static/js/2.825542ff.chunk.js": "/birf/bird-oracle-dapp/static/js/2.825542ff.chunk.js",
-    "static/js/2.825542ff.chunk.js.map": "/birf/bird-oracle-dapp/static/js/2.825542ff.chunk.js.map",
-    "index.html": "/birf/bird-oracle-dapp/index.html",
-    "precache-manifest.855a451140bc823f6c79df63f4b76822.js": "/birf/bird-oracle-dapp/precache-manifest.855a451140bc823f6c79df63f4b76822.js",
-    "service-worker.js": "/birf/bird-oracle-dapp/service-worker.js",
-    "static/css/main.2d6c8471.chunk.css.map": "/birf/bird-oracle-dapp/static/css/main.2d6c8471.chunk.css.map",
-    "static/js/2.825542ff.chunk.js.LICENSE.txt": "/birf/bird-oracle-dapp/static/js/2.825542ff.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/birf/bird-oracle-dapp/static/media/bird-cells.7b9104d9.svg"
+    "main.css": "/bird-oracle-dapp/static/css/main.5d47a83b.chunk.css",
+    "main.js": "/bird-oracle-dapp/static/js/main.3ccee682.chunk.js",
+    "main.js.map": "/bird-oracle-dapp/static/js/main.3ccee682.chunk.js.map",
+    "runtime-main.js": "/bird-oracle-dapp/static/js/runtime-main.a5aa6c0d.js",
+    "runtime-main.js.map": "/bird-oracle-dapp/static/js/runtime-main.a5aa6c0d.js.map",
+    "static/js/2.633a7c4f.chunk.js": "/bird-oracle-dapp/static/js/2.633a7c4f.chunk.js",
+    "static/js/2.633a7c4f.chunk.js.map": "/bird-oracle-dapp/static/js/2.633a7c4f.chunk.js.map",
+    "index.html": "/bird-oracle-dapp/index.html",
+    "precache-manifest.c5b0a1570f45f781aca6a5eea6215a91.js": "/bird-oracle-dapp/precache-manifest.c5b0a1570f45f781aca6a5eea6215a91.js",
+    "service-worker.js": "/bird-oracle-dapp/service-worker.js",
+    "static/css/main.5d47a83b.chunk.css.map": "/bird-oracle-dapp/static/css/main.5d47a83b.chunk.css.map",
+    "static/js/2.633a7c4f.chunk.js.LICENSE.txt": "/bird-oracle-dapp/static/js/2.633a7c4f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/bird-oracle-dapp/static/media/bird-cells.7b9104d9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3989d395.js",
-    "static/js/2.825542ff.chunk.js",
-    "static/css/main.2d6c8471.chunk.css",
+    "static/js/runtime-main.a5aa6c0d.js",
+    "static/js/2.633a7c4f.chunk.js",
+    "static/css/main.5d47a83b.chunk.css",
     "static/js/main.3ccee682.chunk.js"
   ]
 }
