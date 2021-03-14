@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/oracle-network/bird-frontend-react/static/css/main.01560314.chunk.css",
+    "main.js": "/oracle-network/bird-frontend-react/static/js/main.6fec3c79.chunk.js",
+    "main.js.map": "/oracle-network/bird-frontend-react/static/js/main.6fec3c79.chunk.js.map",
+    "runtime-main.js": "/oracle-network/bird-frontend-react/static/js/runtime-main.24198d55.js",
+    "runtime-main.js.map": "/oracle-network/bird-frontend-react/static/js/runtime-main.24198d55.js.map",
+    "static/js/2.85d5a5ed.chunk.js": "/oracle-network/bird-frontend-react/static/js/2.85d5a5ed.chunk.js",
+    "static/js/2.85d5a5ed.chunk.js.map": "/oracle-network/bird-frontend-react/static/js/2.85d5a5ed.chunk.js.map",
+    "index.html": "/oracle-network/bird-frontend-react/index.html",
+    "precache-manifest.ca17e0c0b67e0d7e332af280c08510fb.js": "/oracle-network/bird-frontend-react/precache-manifest.ca17e0c0b67e0d7e332af280c08510fb.js",
+    "service-worker.js": "/oracle-network/bird-frontend-react/service-worker.js",
+    "static/css/main.01560314.chunk.css.map": "/oracle-network/bird-frontend-react/static/css/main.01560314.chunk.css.map",
+    "static/js/2.85d5a5ed.chunk.js.LICENSE.txt": "/oracle-network/bird-frontend-react/static/js/2.85d5a5ed.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/oracle-network/bird-frontend-react/static/media/bird-cells.7b9104d9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24198d55.js",
+    "static/js/2.85d5a5ed.chunk.js",
+    "static/css/main.01560314.chunk.css",
+    "static/js/main.6fec3c79.chunk.js"
+  ]
+}
