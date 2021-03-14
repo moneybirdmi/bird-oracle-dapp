@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "http://bird-money.github.io/oracle-network/bird-frontend-react",
+  "homepage": "http://moneybirdmi.github.io/birf/bird-oracle-dapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
